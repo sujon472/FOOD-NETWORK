@@ -1,0 +1,168 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+  
+}
+#header{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 10%;
+}
+.header-part{
+    width: 50%;
+    margin-left: 5%;
+    padding:100px 100px 50px 100px ;
+    margin-left: 100px;
+}
+.text-color{
+    color: orange;
+}
+.header-part-img{
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 100px;
+}
+.link-color{
+    background-image: linear-gradient( #fe5433,#fb974c);
+    text-decoration: none;
+    padding: 20px 40px;
+    border-radius: 40px;
+    color: white;
+    font-size: small; 
+      
+}
+.link-color-2{
+    background-image: linear-gradient( #fe5433,#fb974c);
+    text-decoration: none;
+    padding: 20px 40px;
+    border-radius: 40px;
+    color: white;
+    font-size: small; margin-top: 50px;
+      
+}
+.resume{
+    margin-top: 10px;
+}
+h1{
+    font-size: 50px;
+}
+.header-part img{
+    width: 100%;
+}  
+.paragraph{
+    margin-bottom: 50px;
+    font-size: medium;
+}
+#dream-area{
+    display: flex;
+    background-image: url(images/8.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+.dream-area-part{
+    width: 50%;
+    margin-left: 5%;
+}
+.dream-area-part-p{
+    width: 50%;
+    margin-left: 5%;
+}
+.dream-area-part img {
+    width: 52%;
+    padding-left: 41px;
+}
+#experience-area{
+    margin-top: 100px;
+}
+.my-recipies{
+        text-align: center;
+    }
+.my-recipies-p{
+        text-align: center;
+        text-decoration: none;
+        margin-left: 250px;
+        margin-right: 250px;
+        margin-bottom: 50px;
+
+    }
+.experience-part{
+        display: flex;
+    }
+.experience-part h3{
+        color: orange;
+    }
+.experience-part div{
+        box-shadow: 7px 5px 40px gray;
+        height: 80%;
+        margin: 60px;
+    }
+.first{
+        margin-left: 20px;
+        border-radius: 40px; 
+        padding:20px ;
+    }
+.second{
+        border-radius: 40px; 
+        padding:20px ;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+.third{
+        border-radius: 40px; 
+        padding:20px ;
+    }
+.first img{
+      width: 270px; ;
+}
+.second img{
+    width: 270px; ;
+}
+.third img{
+    width: 270px; ;
+}
+footer p{
+        text-align: center;
+    }
+.text-color-1{ 
+    color: green;
+}
+.text-color-2{
+    color: grey;
+}
+footer{
+    text-align: center;
+    height: 150px;
+}
+.end{
+    background-color: black;
+    margin: 10px;
+    padding: ;
+}
+.end-paragraph{
+    color: blanchedalmond;
+    padding: 0%;
+}
+.social{
+    box-shadow: 7px 5px 20px grey;
+    height: 80%;
+    margin: 65px;
+    border-radius: 15px;
+    display: flex;
+
+}
+.youtube{
+    margin-left: 100px;
+}
+.instragram{
+    margin-left: 299px;
+}
+.dribble{ 
+    margin-left: 286px;
+}
+.social p{
+    margin-bottom: ;
+}
+.end end-2{
+    margin-top: 10px;
+}
